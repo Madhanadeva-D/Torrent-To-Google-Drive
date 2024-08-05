@@ -1,2 +1,2 @@
-# Torrent-To-Google-Drive
+#Torrent To Google Drive
 Convert magnet/torrent links files into Google Drive using google colab.
